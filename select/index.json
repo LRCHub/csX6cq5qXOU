@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "nothin",
+  "base_artist": "dodo",
+  "createdAt": "2026-02-09T05:51:56.500889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There Ain't Nothin' Wrong with the Radio",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/01_There_Ain't_Nothin'_Wrong_with_the_Radio_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ain't Nothin' to It",
+      "artist": "Cody Johnson",
+      "has_synced": false,
+      "path": "select/02_Ain't_Nothin'_to_It_Cody_Johnson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Ain't Nothin'",
+      "artist": "Keith Whitley",
+      "has_synced": true,
+      "path": "select/03_It_Ain't_Nothin'_Keith_Whitley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nothin' But the Taillights",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/04_Nothin'_But_the_Taillights_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nothin' Goin Wrong Around Here",
+      "artist": "Craig Morgan",
+      "has_synced": false,
+      "path": "select/05_Nothin'_Goin_Wrong_Around_Here_Craig_Morgan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nothin Like Us",
+      "artist": "Josh Gracin",
+      "has_synced": true,
+      "path": "select/06_Nothin_Like_Us_Josh_Gracin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nothin' Like Us",
+      "artist": "Josh Gracin",
+      "has_synced": true,
+      "path": "select/07_Nothin'_Like_Us_Josh_Gracin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nothin' Like You",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/08_Nothin'_Like_You_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nothin' On You",
+      "artist": "Randy Houser",
+      "has_synced": false,
+      "path": "select/09_Nothin'_On_You_Randy_Houser.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nothin' Right",
+      "artist": "Scotty McCreery",
+      "has_synced": true,
+      "path": "select/10_Nothin'_Right_Scotty_McCreery.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothin' to Lose",
+      "artist": "Josh Gracin",
+      "has_synced": true,
+      "path": "select/11_Nothin'_to_Lose_Josh_Gracin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nothin' on You",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/12_Nothin'_on_You_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothin' Better To Do",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/13_Nothin'_Better_To_Do_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nothin' Out Here (feat. Thomas Rhett)",
+      "artist": "HIXTAPE feat. HARDY & Thomas Rhett",
+      "has_synced": false,
+      "path": "select/14_Nothin'_Out_Here_(feat._Thomas_Rhett)_HIXTAPE_feat._HARDY_&_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nothin’ Out Here (HARDY feat. Thomas Rhett)",
+      "artist": "HIXTAPE",
+      "has_synced": true,
+      "path": "select/15_Nothin’_Out_Here_(HARDY_feat._Thomas_Rhett)_HIXTAPE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nothin",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_nothin_dodo.txt"
+    }
+  ]
+}
